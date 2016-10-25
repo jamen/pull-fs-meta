@@ -1,7 +1,7 @@
 {
   "name": "pull-fs-meta",
   "description": "File system functions with a separated metadata system.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/jamen/pull-fs-meta",
   "author": "Jamen Marz (https://github.com/jamen)",
   "repository": "jamen/pull-fs-meta",
